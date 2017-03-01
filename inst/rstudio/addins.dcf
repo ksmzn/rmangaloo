@@ -1,0 +1,4 @@
+Name: rmangaloo
+Description: マンガルーを起動し画像を差し込みます
+Binding: rmangaloo
+Interactive: true
